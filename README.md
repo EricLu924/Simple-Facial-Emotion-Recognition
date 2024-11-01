@@ -14,5 +14,6 @@ Simple Facial Emotion Recognition
 ● [Emotion Recognition Categories]：
 0 = anger , 1  = disgust , 2 = fear , 3 = happiness
 4 = sadness , 5 = surprise , 6 = neutral
+![image](https://github.com/user-attachments/assets/30e5914b-a0d9-4bc7-b678-86ba1382f803)
 
 
