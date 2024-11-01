@@ -15,5 +15,8 @@ Simple Facial Emotion Recognition
 0 = anger , 1  = disgust , 2 = fear , 3 = happiness
 4 = sadness , 5 = surprise , 6 = neutral
 ![image](https://github.com/user-attachments/assets/30e5914b-a0d9-4bc7-b678-86ba1382f803)
+And the numbers in the pixel column correspond to the brightness pixel values of each image. Each image has 360 brightness pixel values, which range from 0 to 255, where 0 represents pure black and 255represents pure white.
+
+
 
 
