@@ -2,6 +2,8 @@ Simple Facial Emotion Recognition
 =============================================================================================================
 【Reminder】：Due to file upload limitations, please extract the "fer2013.7z" file before running the program!
 
+● [Main Technology] : OpenCV + CNN
+
 "training_model.ipynb"：Code for training and viewing model data
 
 "app.py"：Code for primary execution of facial emotion recognition
