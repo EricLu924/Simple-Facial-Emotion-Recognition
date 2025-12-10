@@ -1,5 +1,7 @@
 Simple Facial Emotion Recognition
 =============================================================================================================
+##### The purpose of this project is to allow beginners to experience the process of building a facial emotion recognition model. It is recommended to further refine and adjust this model architecture to achieve optimal performance.
+
 【Reminder】：Due to file upload limitations, please extract the "fer2013.7z" file before running the program!
 
 ● [Main Technology] : OpenCV + CNN
